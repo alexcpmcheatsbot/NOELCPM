@@ -1,2 +1,9 @@
 # alexcheatscpm
 Tool For Car Parking Multiplayer 1
+[27/3 22:25] Noel: apt upgrade -y
+[27/3 22:25] Noel: pkg install git
+[27/3 22:25] Noel: pkg install python -y
+[27/3 22:25] Noel: cd NOELCPM
+[27/3 22:25] Noel: git pull
+[27/3 22:25] Noel: pip install -r requirements.txt
+[27/3 22:25] Noel: python main.py
